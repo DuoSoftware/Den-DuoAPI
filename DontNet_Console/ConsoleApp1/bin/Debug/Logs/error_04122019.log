@@ -1,0 +1,20 @@
+Error Not Found: M000100010000100001000000013page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+Error Not Found: M000100010000100001000000029page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+Error Not Found: M000100010000100001000000028page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+Error Not Found: M000100010000100001000000031page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:09 PM-Error Not Found: M000100010000100001000000013page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:09 PM-Error Not Found: M000100010000100001000000029page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:09 PM-Error Not Found: M000100010000100001000000028page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:11 PM-Error Not Found: M000100010000100001000000031page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:16 PM-Error Not Found: M000100010000100001000000026page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:16 PM-Error Not Found: M000100010000100001000000027page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:16 PM-Error Not Found: M000100010000100001000000022page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 1:16:17 PM-Error Not Found: M000100010000100001000000047page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:51 PM-http://localhost/apiduo/lco/accounts_v1/M000100010000100001000000013/update/0[Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:51 PM-Bulk Insert Failed: M000100010000100001000000013page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:51 PM-http://localhost/apiduo/lco/accounts_v1/M000100010000100001000000029/update/0[Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:51 PM-Bulk Insert Failed: M000100010000100001000000029page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:52 PM-http://localhost/apiduo/lco/accounts_v1/M000100010000100001000000028/update/0[Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:52 PM-Bulk Insert Failed: M000100010000100001000000028page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:55 PM-http://localhost/apiduo/lco/accounts_v1/M000100010000100001000000031/update/0[Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.
+4/12/2019 6:15:55 PM-Bulk Insert Failed: M000100010000100001000000031page id0 - [Microsoft][ODBC Driver 13 for SQL Server][SQL Server]Incorrect syntax near '205'.

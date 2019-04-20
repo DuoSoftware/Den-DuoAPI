@@ -1,0 +1,8 @@
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\bin\Debug\duoapi.v1.dll
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\bin\Debug\duoapi.v1.pdb
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\obj\Debug\duoapi.v1.csproj.CoreCompileInputs.cache
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\obj\Debug\duoapi.v1.csproj.CopyComplete
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\obj\Debug\duoapi.v1.dll
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\obj\Debug\duoapi.v1.pdb
+C:\Users\Lasitha\source\repos\ConsoleApp1\duoapi.v1\obj\Debug\duoapi.v1.csprojAssemblyReference.cache
